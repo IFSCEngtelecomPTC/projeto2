@@ -1,6 +1,6 @@
 # Projeto2
 
-As mensagens do sistema de aquisição de dados devem ser codificadas com [Protocol Buffers](https://developers.google.com/protocol-buffers/).
+No projeto 2, deve-se desenvolver um protocolo de aplicação a critério da turma. Esse protocolo deve explorar técnicas de codificação de mensagens, além de prever um modelo de comunicação apropriado.
 
 A entrega do projeto deve ser composta de dois arquivos:
 1. Um relatório técnico em PDF contendo:
